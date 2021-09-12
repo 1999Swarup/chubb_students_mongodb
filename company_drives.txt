@@ -1,0 +1,46 @@
+[
+{
+"company_id" : 101,
+"company_name" : "chubb",
+"appeared" : new Date("2021-10-24"),
+"student_attended":[
+{
+"user_id":1,
+"student_name" : "Ram"
+},
+{
+"user_id":2,
+"student_name" : "shyam"
+},
+{
+"user_id":4,
+"student_name" : "Hari"
+},
+{
+"user_id":5,
+"student_name" : "Swarup"
+}]
+},
+{"company_id" : 102,
+"company_name" : "Microsoft",
+"appeared" : new Date("2021-10-14"),
+"student_attended":[
+{
+"user_id":2,
+"student_name" : "shyam"
+},
+{
+"user_id":3,
+"student_name" : "Mohan"
+},
+{
+"user_id":4,
+"student_name" : "Hari"
+},
+{
+"user_id":5,
+"student_name" : "Swarup"
+}
+]
+}
+]

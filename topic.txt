@@ -1,0 +1,27 @@
+[
+{"topic_id" : 100,
+"student_name" : "Ram",
+"course_name" : "CSE",
+"date" : "2ndOct2021"
+},
+{"topic_id" : 200,
+"student_name" : "shyam",
+"course_name" : "CSIT",
+"date" : "1stOct2020"
+},
+{"topic_id" : 300,
+"student_name" : "Mohan",
+"course_name" : "ECE",
+"date" : "1stOct2018"
+},
+{"topic_id" : 400,
+"student_name" : "Hari",
+"course_name" : "EEE",
+"date" : "1stNov2019"
+},
+{"topic_id" : 500,
+"student_name" : "Swarup",
+"course_name" : "CSE",
+"date" : "1stSept2020"
+}
+]

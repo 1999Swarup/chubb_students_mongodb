@@ -1,0 +1,72 @@
+[
+{"user_id" : 1,
+"student_name" : "Ram",
+"attendance_given":[
+{"present" : "yes",
+"date" : "2-Oct-2021"
+},
+{"present" : "yes",
+"date" : "3-Oct-2021"
+},
+{"present" : "no",
+"date" : "4-Oct-2021"
+}
+]
+},
+{"user_id" : 2,
+"student_name" : "shyam",
+"attendance_given":[
+{"present" : "yes",
+"date" : "2-Oct-2021"
+},
+{"present" : "yes",
+"date" : "3-Oct-2021"
+},
+{"present" : "yes",
+"date" : "4-Oct-2021"
+}
+]
+},
+{"user_id" : 3,
+"student_name" : "Mohan",
+"attendance_given":[
+{"present" : "no",
+"date" : "1-Oct-2021"
+},
+{"present" : "yes",
+"date" : "2-Oct-2021"
+},
+{"present" : "no",
+"date" : "3-Oct-2021"
+}
+]
+},
+{"user_id" : 4,
+"student_name" : "Hari",
+"attendance_given":[
+{"present" : "yes",
+"date" : "2-Nov-2021"
+},
+{"present" : "no",
+"date" : "3-Nov-2021"
+},
+{"present" : "yes",
+"date" : "4-Nov-2021"
+}
+]
+},
+{"user_id" : 5,
+"student_name" : "Swarup",
+"attendance_given":[
+{"present" : "yes",
+"date" : "2-Sept-2021"
+},
+{"present" : "yes",
+"date" : "3-Sept-2021"
+},
+{"present" : "yes",
+"date" : "4-Sept-2021"
+}
+]
+}
+]
